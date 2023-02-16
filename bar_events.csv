@@ -1,0 +1,209 @@
+,venue,event,date,age,price,music,performers,location
+0,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+1,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+2,F8,INTERZONE,Tue: Feb 14,21+,free,"['darkwave', 'goth', 'EBM', 'industrial', 'witchhouse', 'dark techno']",['Hex Embrace'],"('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+3,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+4,F8,Run It Back,Wed: Feb 15 (9pm-2am),21+,free w/rsvp b4 11pm/$10,tech house,"Eve, Nickie, VlexxZ, Luongevity, JJKO","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+5,Make-Out Room,Frigo-international Discotheque,Wed: Feb 15 (10pm-2am),21+,free,"['multigenre world', 'afrobeat', 'italo disco']",[],"('3225 22nd St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1190>)"
+6,The Record Bar,Post Valentine,Wed: Feb 15 (10pm-2am),21+,$10,['tech house'],"['Highmags', 'Meikee Magnetic', 'HouseGodz', 'GlitterazziSF']","('263 Eddy St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1790>)"
+7,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+8,Pop's Bar,Bumpin' Thursdays: A Mission Dance Party,Thu: Feb 16 (8pm-1am),21+,free w/rsvp,"['techno', 'hip-hop', 'moombahton', 'reggaeton']",['SF Dj Collective'],
+9,Monarch,"Andres: Our House w/Andres, Kenny Cordeiro, Goldbear, Hidra, Scott Slyter, Branthedon",Thu: Feb 16 (9pm-2am),21+,$15,['house'],"['Andres', 'Kenny Cordeiro', 'Goldbear', 'Hidra', 'Scott Slyter', 'Branthedon']","('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+10,F8,"Cc Presents: Vyhara, Krakinov, Sam Lewis, Rosejam",Thu: Feb 16 (9pm-2am),21+,$10,"['dubstep', 'bass music', 'glitch']",['Causmic Creative'],"('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+11,The Fillmore,The 1975,2018-06-30T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+12,F8,Wayward,Thu: Feb 16 (10pm-2am),21+,$10,"['progressive house', 'tech house', 'playa tech']","['Gavin Smith', 'Ober', 'Count', 'Yaz']","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+13,715 Harrison St,So Stoked For Love 2023,Fri: Feb 17 (7pm),All ages,$10-20 pre/$25-30,"['trance', 'drum and bass', 'hardcore', 'hardstyle']","['Kovven', 'Khomha', 'Angel & Artimus', 'Corrine', 'Russ Mack', 'Cheezy-P', 'Lucy Stoner', 'NRGetics', 'Psymatik', 'The Buckness']","('1255 7th St, Oakland', <shapely.geometry.point.Point object at 0x7f78310f8f40>)"
+14,The Center SF,Temple Of Now: Ecstatic Dance w/ Nima,Fri: Feb 17 (7pm-10pm),$25-30,,"['downtempo', 'world music', 'global bass']",[],
+15,DNA Lounge,"Psyclon Nine, Clockwork Echo, Our Frankenstein, Corvins Breed",Fri: Feb 17 (7pm-11:59pm),All ages,$17 pre/$22,"['industrial', 'electro']",[],"('375 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77b50>)"
+16,Bergerac,DJ Galexy's Birthday,Fri: Feb 17 (8pm),21+,free,['house'],[],"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78315a08e0>)"
+17,The Fillmore,The 1975,2018-11-28T19:30,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+18,El Rio,Grl House w/ Tomudj ++ Ritchrd ++ Smart Meter B2B Lil Ze ++ Soba B2B Golem,Fri: Feb 17 (9pm),21+,,"['uk garage', 'house', 'trap', 'juke', 'footwork', 'baile funk', 'club']",[],"('3158 Mission St, San Francisco', <shapely.geometry.point.Point object at 0x7f786108c1c0>)"
+19,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+20,The Regency Ballroom,"Inzo w/ Align, Blookah",Fri: Feb 17 (9pm),18+,$20-40,"['future bass', 'trap']",[],"('1300 Van Ness Ave, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e670>)"
+21,The Midway,The Growth Tour: Yotto,Fri: Feb 17 (9pm),21+,$30-35,['progressive house'],['Yotto'],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+22,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+23,The Record Bar,"La Bronka - Viciios, Rawb, Esejohnp, Tech9, Midnight5olsticemusic b2b Alfa Reanimated",Fri: Feb 17 (9pm-1:30am),21+,$6-10,"['tech house', 'latin bass', 'reggaeton']",['Spin And Destroy'],"('263 Eddy St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1790>)"
+24,Public Works Loft,"The Garden Party w/ Rachel Torro b2b Benjamin K, Torie, Say",Fri: Feb 17 (9pm-2:30am),21+,$10-20,"['deep house', 'techno', 'tech house']","['Rachel Torro', 'Benjamin K', 'Torie', 'Say']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+25,Hawthorn,Clee + Mike Javier & Shangyanzy,Fri: Feb 17 (9pm-2am),21+,free w/rsvp b4 10:30pm/$15,"['hip-hop', 'top 40', 'tech house', 'disco']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+26,F8,Cupid's Afterparty,Fri: Feb 17 (9pm-2am),21+,free w/rsvp b4 11pm/$10,tech house,"Branthedon, Fezz, Scott Slyter, Kim Ono, Sandra Mane","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+27,Audio,Nora Van Elken,Fri: Feb 17,21+,$12,progressive house,,"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+28,Underground,Sweet Tooth : Valentine's Edition,Fri: Feb 17 (9pm-2am),21+,free w/rsvp/$15,['multigenre'],['Makeroom'],"('424 Haight St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e580>)"
+29,Monarch,"The Takeover Ft Lee Coombs, Felix The Dog, Mancub, Yuka Yu, J9 The Angel, Simo & Special Guest",Fri: Feb 17 (9pm-2am),21+,$17 pre,"['tech house', 'funky house', 'acid house']",['Sleevin Records Event Link'],"('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+30,The Great Northern,"A Club Called Rhonda: Invt, Bitter Babe, Brown Amy, Nonsuit, Juanny Depp, Goddollars",Fri: Feb 17 (9pm-3:30am),21+,$10-40,"['tech house', 'deep house', 'garage', 'disco']",['Rhonda Intl'],"('119 Utah St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e6d0>)"
+31,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+32,1015 Folsom,Flight Facilities (DJ set),Fri: Feb 17 (10pm),21+,$25.55-31.63,"['disco', 'house', 'indie pop']",['Facebook Page'],
+33,Halcyon,Mau P,Fri: Feb 17,21+,$12 b4 11/$19-30,tech house,,"('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+34,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+35,Make-Out Room,City Beat,Fri: Feb 17,21+,$10,"['soul', 'disco', 'afrobeat', 'hip-hop', 'turntablism']",[],"('3225 22nd St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1190>)"
+36,Yolo Nightclub,Good Times Ahead,Fri: Feb 17 (10pm-2am),21+,$5-15,"['big room house', 'electro house', 'trap']",['Yolo Nightclub Facebook Page'],"('333 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e490>)"
+37,F8,"Perfect Strangers: Angela Ruins, Nick Lamb & Nexus-6",Fri: Feb 17 (10pm-2am),21+,free w/rsvp b4 11pm,"['disco', 'italo', 'post-punk', 'house']","['Angela Ruins', 'Nick Lamb', 'Nexus-6']","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+38,Temple Nightclub,Vice,Fri: Feb 17 (10pm-2am),21+,$10-20,"['house', 'pop EDM']",['Facebook Page'],"('540 Howard St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0f40>)"
+39,Public Works,Set w/ Tim Green + Einmusik,Fri: Feb 17 (10pm-4am),21+,$10 b4 11/$15-30,"progressive house, playa tech",Set Underground,"('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+40,The Endup,Friday Night Residents Afterhours,Sat: Feb 18 (1am-6am),21+,$11.11-19.73,"['tech house', 'deep house']","['Bryan Boyce', 'Paul Goodyear']","('401 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0220>)"
+41,The Fillmore,The 1975,2018-06-30T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+42,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+43,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+44,DNA Lounge,SubDocta: Bass Science Tour w/Black Carl,Sat: Feb 18 (9pm-2:30am),18+,$15-20 pre/$25,"['dubstep', 'bass music']","['Vital', 'Olympus']","('375 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77b50>)"
+45,Underground,"Club Moniker w/ Soeneido, Cherub420 b2b wmwood, Redbeans",Sat: Feb 18 (9pm-2am),21+,$5 b4 10/$10,"['drum and bass', 'jungle', 'breaks']","['Soeneido', 'Cherub420 b2b wmwood', 'Redbeans']","('424 Haight St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e580>)"
+46,Hawthorn,Mackswell & Friends,Sat: Feb 18,21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",['Mackswell'],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+47,DanzHaus,Out Of Office,Sat: Feb 18 (9pm-2am),21+,$10-15 pre/$20,"['dubstep', 'bass music']","['Thematic Entertainment', 'Hearth Productions']","('1275 Connecticut St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77910>)"
+48,Hawthorn,"Spicy, Slashrrrr, Mackswell + Trixamillion",Sat: Feb 18 (9pm-2am),21+,$15,"['house', 'EDM', 'hip-hop', 'top 40']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+49,Monarch,Yung Singh | Baalti (Live) | Adware | Discnogirl | Bad Juuju | Vertigo,Sat: Feb 18 (9pm-2am),21+,$15-25,"['club music', 'house', 'juke', 'footwork', 'breaks']","['Yung Singh', 'Baalti (Live)', 'Adware', 'Discnogirl', 'Bad Juuju', 'Vertigo']","('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+50,Public Works,Fake and Gay 5 Year Anniversary!,Sat: Feb 18 (9pm-3am),21+,$20-30,"['house', 'tech house']","['Rye Rye', 'Namasenda']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+51,Public Works Loft,Return Of The Jaded,Sat: Feb 18 (9pm-3am),21+,$10-15,['tech house'],"['i2i', 'JJKO', 'Shuffl.N.Play', 'L3NA', 'Melevate']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+52,Audio,Nils Hoffmann,Sat: Feb 18 (9:30pm-2am),21+,$10,"['progressive house', 'tech house', 'garage']",[],"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+53,715 Harrison St,Student Night,Sat: Feb 18,18+,$10-599,"['EDM', 'top 40', 'dubstep']",['Club X'],"('1255 7th St, Oakland', <shapely.geometry.point.Point object at 0x7f78310f8f40>)"
+54,TBA Soma,Club Estrus,Sat: Feb 18 (10pm),15-20,$,"['house', 'techno']","['Beverly Chills', 'Guerrilla', 'DJ Romii', 'Newonce', 'Del', 'Papa Xanny', 'Banned Practice', 'DYLUSION', 'Mnemonics']","('1727 Telegraph Ave, Oakland', <shapely.geometry.point.Point object at 0x7f7841ca00a0>)"
+55,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+56,The Record Bar,Admit One Quarterly,Sat: Feb 18 (10pm-2am),21+,$10-25,"['house', 'tech house']",['Recordbarsf'],"('263 Eddy St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1790>)"
+57,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+58,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+59,Temple Nightclub,Imanbek,Sat: Feb 18,21+,$20-25,"['EDM', 'slap house']",[],"('540 Howard St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0f40>)"
+60,Halcyon,"Toman, Alexander, Wufu",Sat: Feb 18 (10pm-4am),21+,$20,['tech house'],[],"('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+61,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+62,Halcyon,Nocturnal Extreme w/ DJ Alex Acosta,Sun: Feb 19 (3:30am),21+,$46.93-57.50,['house'],['Ky Martinez Events'],"('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+63,Audio,Cubicolor (DJ Set),Sun: Feb 19 (1pm-6pm),21+,$15,deep house,,"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+64,The Great Northern,"Outerlimits President's Day Weekend w/ Rebolledo, Sinca, Groovewell, More!",Sun: Feb 19 (2pm-2am),21+,$10-30,"['house', 'playa tech']",['The Great Northern Facebook Page'],"('119 Utah St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e6d0>)"
+65,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+66,The Fillmore,The 1975,2018-06-30T19:00:00,16+,$35.50,"['Indie', 'Pop']",['The 1975'],
+67,Cat Club,Kill Your Lover,Sun: Feb 19 (9pm-2am),21+,$10-25,"['latin club', 'EDM', 'hip-hop', 'trap']",['Morning After Pill Radio'],"('1190 Folsom St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841bbb4f0>)"
+68,Arena,OTW Sundays Rave Academy,Sun: Feb 19 (9pm-2am),18+,$10 b4 1030/$20,"['EDM', 'hip-hop']","['Underworld', 'Groove Labs']","('982 Market St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8eb20>)"
+69,Monarch,Werd. | Woo Day w/ Lonald J. Bandz and Oso Feo,Sun: Feb 19 (9pm-2am),21+,$5,"['house', 'tech house', 'funky house']","['Lonald J. Bandz', 'Oso Feo']","('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+70,Public Works,"Polyglamorous 8 Year Anniversary w/ DJ Holographic and Shaun J. Wright, Jen DM",Sun: Feb 19 (10pm-4am),21+,$15-25,"['deep house', 'funk', 'classic house']","['DJ Holographic', 'Shaun J. Wright', 'Jen DM']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+71,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+72,The Valencia Room,So House Your Evening So Far?,Mon: Feb 20,21+,free,['house'],['Blendsandtrends'],"('647 Valencia St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ee50>)"
+73,DNA Lounge,Death Guild,Mon: Feb 20 (9:30pm-2:30am),18+,$5 b4 1030/$8,"['goth', 'industrial', 'synthpop', 'noise', 'ambient']",[],"('375 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77b50>)"
+74,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+75,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+76,1015 Folsom,Good Fun Luv n More,Wed: Feb 22 (6pm-10pm),21+,$10-15,['house'],[],
+77,Mothership Bar,Local / Global,Wed: Feb 22 (8pm-12am),21+,free,"['house', 'techno', 'global beats']",['DJmaDRE'],"('3152 Mission St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1580>)"
+78,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+79,F8,"John Tejada, Ghenji, Michael May",Wed: Feb 22 (9pm-2am),21+,$10,"['deep house', 'funky house']","['Strut SF', 'Delta Funk']","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+80,Monarch,Soundpieces,Wed: Feb 22,21+,$10-18,['midtempo bass'],"['Hypho', 'Hebbe', 'Drezza', 'Heisty X Alt-1']","('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+81,The RecordBar,Spacegodz,Wed: Feb 22 (10pm-2am),21+,$10,"['trance', 'progressive house']","['Dyloot', 'Gizma', 'Michael Liu', 'Seoulwave']","('263 Eddy St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1790>)"
+82,Noisebridge Hackerspace,Resident Electronic Music,Thu: Feb 23 (8pm),All ages,,"['live electronic', 'open jam']",['Facebook Page'],
+83,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+84,Record Bar,GRL Gang Takeover,Thu: Feb 23 (9pm),21+,$10-20,"['dubstep', 'bass music', 'house', 'EDM']","['2dy4', 'Cybrfly', 'Hidden Axis', 'So & So', 'Re!gn']","('263 Eddy St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1790>)"
+85,The Fillmore,"Magic City Hippies, Capyac",Thu: Feb 23 (9pm),$26,,"funky house, nu-disco",,
+86,The Knockout,Bass + Booty + Breaks,Thu: Feb 23 (9pm-2am),21+,$10,"['breaks', 'drum and bass', 'club music', 'electro']","['lil Bebe Cyborg', 'Del', 'Discnogirl', 'Soeneido']","('3223 Mission St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e280>)"
+87,The Knockout,"Bass Booty + Breaks w/ Discnogirl, Lil Bebe Cyborg, Del, & Soeneido",Thu: Feb 23 (9pm-2am),21+,$10,"['drum and bass', 'jungle', 'club music', 'breaks']",['Strap2strapworldwide'],"('3223 Mission St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e280>)"
+88,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+89,The Center SF,Temple Of Now: Ecstatic Dance w/ Geometrae,Fri: Feb 24 (7pm-10pm),,$25-30,"['bass music', 'downtempo']",[''],
+90,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+91,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+92,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+93,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+94,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+95,Neck Of The Woods,"Regal86, The Khan, B0nitababy, and DJ Caro",Fri: Feb 24 (9pm-1:30am),21+,$20 pre,"['drum and bass', 'ghetto house', 'hip-hop']","['Hydefm', 'New Nostalgia']",
+96,Hawthorn,Dhanush & Friends + Dilly,Fri: Feb 24,21+,$15,"['house', 'EDM', 'hip-hop', 'top 40']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+97,Hawthorn,Fridays @ Hawthorn,Feb 24,21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+98,Emporium SF,Full Tilt,Fri: Feb 24,21+,free w/rsvp,"['funk', 'soul', 'hip-hop', 'disco', 'house']",[],
+99,The Record Bar,Hello Operator: Otebnsolrac,Fri: Feb 24,21+,$10,"['tech house', 'bass house', 'latin house']",['Spin And Destroy'],"('263 Eddy St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1790>)"
+100,The Midway,Michael Bibi,Fri: Feb 24,21+,$35-100,['tech house'],"['Factory 93', 'Insomniac']","('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+101,Monarch,Shaded,Fri: Feb 24,21+,$10-20,"['house', 'techno', 'minimal']",[],"('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+102,Underground,MNML:FUN,Fri: Feb 24,21+,$8 b4 10/$10,"['minimal', 'techno', 'house']","['Shaper', 'DJ Cira', 'Zita Molnar', 'DNL TRNR', 'Peter Clarke']","('424 Haight St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e580>)"
+103,Hawthorn,Solo Rodeo & Dmads + Dilly & Mutemor,Fri: Feb 24,21+,$15,"['house', 'EDM', 'top 40', 'hip-hop']","['Solo Rodeo', 'Dmads', 'Dilly', 'Mutemor']","('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+104,Public Works,"Tourist w/ Jacques Greene, Yu Su",Fri: Feb 24 (9pm-3am),21+,$22-35,"['synthpop', 'leftfield', 'future beats']",['Noise Pop'],"('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+105,F8,"Direct To Earth Official Movement Pre-Party w/ Kr!Z, Lindsey Herbert, Pleasures, Miss Crafty, Kudeki",Fri: Feb 24,21+,$15-20,['techno'],"['Kr!Z', 'Lindsey Herbert', 'Pleasures', 'Miss Crafty', 'Kudeki']","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+106,Bergerac,Dirty Not Sorry,Fri: Feb 24 (9:30pm-2am),21+,free,"['house', 'tech house']","['Cat Liu', 'GLAAS', 'Moonlight', 'Fiziks', 'Robert Raya']","('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78315a08e0>)"
+107,The Great Northern,Set w/ Atish & Kora All Night Long,Fri: Feb 24,21+,$15-40,"['progressive house', 'tech house']",['Set Underground Facebook Page'],"('119 Utah St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e6d0>)"
+108,1015 Folsom,Noise Pop 30 w/ Boy Harsher,Fri: Feb 24 (10pm),21+,$31.63-43.80,"['darkwave', 'industrial']",['Boy Harsher'],
+109,Yolo Nightclub,ARMNHMR,Fri: Feb 24,21+,$25-30,"['pop', 'EDM', 'big room', 'trap']",[],"('333 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e490>)"
+110,Temple (San Francisco),Croatia Squad,Fri: Feb 24 (10pm-2am),21+,$10-15,"['house', 'nu-disco']",['Facebook Page'],"('540 Howard St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0f40>)"
+111,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+112,Halcyon,"Sander Van Doorn, John Connor, Nay Jay",Fri: Feb 24 (10pm-4am),21+,$12 b4 11/$19-30,"['progressive house', 'electro house', 'trance']","['Sander Van Doorn', 'John Connor', 'Nay Jay']","('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+113,The Midway,Paul Oakenfold,Sat: Feb 25 (3pm-9pm),21+,$25-30,"['progressive house', 'trance']",['Facebook Page'],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+114,The Regency Ballroom,"Of The Trees, The Librarian",Sat: Feb 25 (9pm),18+,$20-40,"['dubstep', 'bass music']",[],"('1300 Van Ness Ave, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e670>)"
+115,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+116,The Midway,Stella Bossi,Sat: Feb 25,21+,$15-25,"['techno', 'tech house']",[],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+117,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+118,The Foundry,"Ahau, Alkemiss Erika, Guy S",Sat: Feb 25 (9pm-2am),21+,$15-20,"['progressive house', 'playa tech', 'tech house']",['SF Fam Productions'],"('1425 Folsom St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0f10>)"
+119,Monarch,Garage Access,Sat: Feb 25 (9pm-2am),21+,$15-25,"['uk garage', 'house', 'tech house', 'electro']","['Nikki Nair', 'Farsight', 'Staley', 'Wufu', 'Dan Frandisco', 'Nightware']","('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+120,Bergerac,Jim Rider,Sat: Feb 25,21+,$12,progressive house,Event Link,"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78315a08e0>)"
+121,The Midway,Nora En Pure,Sat: Feb 25,21+,$35-50,progressive house,,"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+122,Hawthorn,Plural Music,Sat: Feb 25,21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+123,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+124,The Great Northern,UTOPIA Comes to SF,Sat: Feb 25 (9pm-2am),21+,$20,"['soulful house', 'deep house', 'afro house', 'disco']","['Jack Monforte', 'KG Superstar', 'Jerry Flores', 'Tony Powell', 'Ade & Jayvi Velasco']","('119 Utah St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e6d0>)"
+125,Audio,Sultan + Shepard,Sat: Feb 25,21+,$15-30,house,,"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+126,Club X,Mardi Gras,Sat: Feb 25,18+,$20+,"['pop', 'EDM', 'top 40', 'hip-hop', 'house', 'dubstep']",['Club X'],"('715 Harrison St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841bbba60>)"
+127,Public Works,He.She.They.,Sat: Feb 25,21+,$20-35,"['techno', 'hard techno', 'footwork', 'club music', 'house']","['Chippy Nonstop', 'Sara Landry', 'Uniiqu3', 'rayreck', 'Chloe Robinson', 'DJ ADHD', 'Mesme']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+128,The Fillmore,The 1975,2018-11-09T19:30:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+129,Club Six,Alpha w/ Sister Zo | Astro | Fawks | Jumpr | Free Son,Sat: Feb 25 (10pm-4am),21+,$30-40,"['house', 'techno']",['Fog City Pack'],"('715 Harrison St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841bbba60>)"
+130,Halcyon,"Layton Giordani, Lee Jones, Sandra Mane",Sat: Feb 25 (10pm-4am),21+,$20,techno,"Layton Giordani, Lee Jones, Sandra Mane","('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+131,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+132,The Endup,"Till The Sunrises Afterhours w/Loic Tambay, DJ Cryptik, Jrnt",Sun: Feb 26 (1am-6am),21+,$15.1-20,"['tech house', 'funky house']","['Nu Tekno', 'Yuka Yu']","('401 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0220>)"
+133,Hotel Via,"Lee Reynolds, Kevin Knapp, Bruja",Sun: Feb 26 (1pm-6pm),21+,$25+,"['deep house', 'tech house', 'progressive house']",['Safra'],
+134,Public Works Loft,"So Sweet w/ Zacky, Fusion, Devcloud and T.Lemon",Sun: Feb 26 (5pm-10pm),21+,$10,['house'],"['Zacky', 'Fusion', 'Devcloud', 'T.Lemon']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+135,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+136,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+137,The Valencia Room,So House Your Evening So Far?,Mon: Feb 27 (9pm),21+,free,['house'],['Blendsandtrends'],"('647 Valencia St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ee50>)"
+138,DNA Lounge,Death Guild,Mon: Feb 27 (9:30pm-2:30am),18+,$5 b4 1030/$8,"['goth', 'industrial', 'synthpop', 'noise', 'ambient']",[],"('375 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77b50>)"
+139,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+140,Mothership,Planet Synth,Wed: Mar 1 (8pm-12am),21+,free,"['disco', 'italo', 'house', 'synthpop']","['Amatric', 'Astronominal', 'Evbot', 'Lord Of The Rats']","('3152 Mission St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1580>)"
+141,Slate Bar,"Soul House w/ Chuy Gomez, DJMindMotion",Wed: Mar 1 (10pm-1am),21+,$5,"['house', 'soul', 'r&b']","['Chuy Gomez', 'DJMindMotion']","('2925 16th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca06d0>)"
+142,1015 Folsom,Bon Entendeur,Thu: Mar 2 (9pm-2am),21+,$20-25,['synthpop'],['DJ Dials'],
+143,Monarch,Konstruct Ft Sentient | U-srd | Rubidium,Thu: Mar 2 (9pm-2am),21+,$10 pre,techno,Event Link,"('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+144,Grace Cathedral,Daybreaker SF Together Tour,Fri: Mar 3 (7pm),multigenre,Facebook Page,[],[],
+145,The Fillmore,The 1975,2018-06-30T19:00:00,16+,$35.50,"['Indie', 'Rock']",['The 1975'],
+146,Bottom Of The Hill,Top Secret Robot Alliance ~ Lo(U)Ser ~ Super Cassette,Fri: Mar 3 (8:30pm),All ages,$13 pre/$15,['synthpop'],['Facebook Page'],"('1233 17th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841bbb130>)"
+147,Hawthorn,Marcus Lee + Perfect Dark Collective,Fri: Mar 3 (9pm-2am),21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",['guestlist'],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+148,Underground,Vague Terrain w/ Hodge + Michael Claus,Fri: Mar 3 (9pm-2am),21+,$15 pre,"['techno', 'breaks', 'house']","['Hodge', 'DJ Cz']","('424 Haight St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e580>)"
+149,The Midway,William Black,Fri: Mar 3,21+,$25-90,"['dubstep', 'pop EDM']",[],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+150,1015 Folsom,Henrik Schwarz + Kettama,Fri: Mar 3 (10pm),21+,$19.47-25.55,"['techno', 'tech house', 'deep house']",['DJ Dials Facebook Page'],
+151,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+152,Temple,Nostalgix,Fri: Mar 3 (10pm-2am),21+,$10-15,['bass house'],['Facebook Page'],"('540 Howard St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0f40>)"
+153,Halcyon,Roger Sanchez,Fri: Mar 3,21+,$19-30,"['deep house', 'tech house']",[],"('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+154,Madrone Art Bar,Let's Catch A Vibe Dance Party,Sat: Mar 4 (5pm-8pm),21+,free,"['techno', 'house', 'hip-hop', 'moombahton']",['SF Dj Collective'],"('500 Divisadero St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca10d0>)"
+155,710 Collective,Quit Your Day Job' Disco + Gallery Opening,Sat: Mar 4 (7pm-10pm),21+,$5-30,['house'],['Madison + Sam'],"('184 10th St, Oakland', <shapely.geometry.point.Point object at 0x7f78315a0670>)"
+156,The Midway,Dr. Fresch,Sat: Mar 4,21+,$25-75,"['bass house', 'dubstep', 'trap']",[],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+157,Hawthorn,Saturdays @ Hawthorn,Sat: Mar 4,21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+158,Underground,Supervixen X Switch w/ Hiroko Yamamuraa- Cherub420 - Rendezhous - Papa Moly,Sat: Mar 4 (9pm-2am),21+,$11-28,"['techno', 'house']",['Good Call SF'],"('424 Haight St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e580>)"
+159,Public Works,"Seth Troxler, Jaden Thompson, Demi Riqui+simo Woo, Demi Riquisimo, Alvaro, Smokes",Sat: Mar 4 (9pm-3am),21+,$35+,"['tech house', 'deep house', 'disco']","['As You Like It', 'Create Magic Productions']","('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+160,F8 1192 Folsom,Squish SF,Sat: Mar 4 (9pm-4am),21+,$15-25,"['club music', 'footwork', 'house', 'techno']","['Darwin', 'Ariel Zetina', 'Bianca Oblivion', 'llloyd', 'Adam Kraft', 'Beverly Chills', 'Nonsuit', 'Likeholywine', 'Comua']","('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+161,Audio,Jerro,Sat: Mar 4,21+,$12-17,progressive house,,"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+162,Yolo Nightclub,Yetep,Sat: Mar 4,21+,$15-20,"['trap', 'dubstep']",[],"('333 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e490>)"
+163,Halcyon,"Sasha Carassi, Dean Samaras, Sebastian Fox",Sat: Mar 4,21+,$12 b4 11/$19-30,house,"Sasha Carassi, Dean Samaras, Sebastian Fox","('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+164,Hotel Via,Rooftop Party w/ Autograf,Sun: Mar 5 (1pm-6am),21+,$20 b4 230,"['house', 'disco', 'funky house']",['All Day All Night Events'],
+165,Audio,Magia Day Party,Sun: Mar 5 (2pm-7pm),21+,$10 b4 3 / $15-20,['progressive house'],"['Facundo Mohrr', 'Andrew Phelan', 'Nile', 'Safra', 'Konnekted Facebook Page']","('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+166,Monarch,Kim Ann Foxman,9pm-2am,21+,$10-20,"deep house, tech house",,"('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+167,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+168,1015 Folsom,Salvatore Ganacci,Thu: Mar 9,21+,$31.63-37.72,"['electro house', 'big room', 'pop house']",['DJ Dials'],
+169,The Center SF,Temple Of Now: Ecstatic Dance w/ Gabriel Francisco,Fri: Mar 10 (7pm-10pm),,$25-30,"['downtempo', 'hip-hop', 'dubstep', 'global bass', 'world music']",[''],
+170,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+171,Regency Ballroom,"Wax Tailor, Kuf Knotz, Christine Elise",Fri: Mar 10 (9pm),All Ages,$25-35,"['hip-hop', 'trip-hop']",['Goldenvoice'],"('1300 Van Ness Ave, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e670>)"
+172,Hawthorn,Mackswell & Friends,Fri: Mar 10,21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",['Mackswell'],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+173,Audio,"Mochakk, DJ Dials",Fri: Mar 10 (9:30pm),21+,$68.20,['tech house'],['All Day All Night Events'],"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+174,1015 Folsom,Lost Kings,Fri: Mar 10,21+,$25.55-37.72,pop house,,
+175,Yolo Nightclub,Senza,Fri: Mar 10,21+,$10,"['dubstep', 'future bass', 'midtempo bass', 'pop EDM']",[],"('333 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e490>)"
+176,The Great Northern,Marsh,Fri: Mar 10,21+,$25-35,progressive house,,"('119 Utah St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e6d0>)"
+177,Space 92,"Thomas Machina, Watts @ Halcyon",Fri: Mar 10,21+,$23+,"['techno', 'tech house']",[],"('184 10th St, Oakland', <shapely.geometry.point.Point object at 0x7f78315a0670>)"
+178,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+179,The Fillmore,The Avett Brothers,2018-11-30T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+180,The Midway,Deorro,Sat: Mar 11,21+,$40+,['big room house'],['Insomniac'],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+181,DNA Lounge,"Layz, Rzrkt",Sat: Mar 11 (9pm-2:30am),18+,$10-15 pre/$20,"['dubstep', 'bass music', 'riddim', 'drum and bass']",['Wasted'],"('375 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77b50>)"
+182,Hawthorn,Knives & Slic3r,Sat: Mar 11 (9pm-3am),21+,$15,"['hip-hop', 'top 40', 'house', 'EDM']",[],"('46 Geary St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86be0>)"
+183,Audio,"Justin Martin, AMPRS&ND, Klipper b2b Kevin Hill",Sat: Mar 11 (9:30pm),21+,$26.86-37.19,"['tech house', 'funky house']","['Justin Martin', 'AMPRS&ND', 'Klipper b2b Kevin Hill']","('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+184,TBA,Skin On Skin,Sat: Mar 11 (10pm-4am),21+,$25 pre/$30,"['techno', 'house']",['Hotbox'],
+185,F8,"Seek-One, Kenny Cordeiro, Thomas Machina, Goldbear, Hidra, Dez Castillo, Andres, Snoflakez, Faust",Wed: Mar 15 (9pm),21+,free w/rsvp b4 11pm1/$10,tech house,Talldoor Facebook Page,"('1192 Folsom, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c773d0>)"
+186,Public Works,Set w/ Mind Against,Thu: Mar 16 (10pm-3am),21+,$20-30,"['minimal', 'techno', 'tech house']",['Setunderground.SF'],"('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+187,TBA,From Our Minds Tour,Thu: Mar 16,,$25-45,techno,"Richie Hawtin, Deep Pedi, Frame (Decoder + Declan James), Jay York, Lindsey Herbert",
+188,The Midway Patio,"Blanke, Au5",Fri: Mar 17 (8pm),21+,$25-30,['midtempo bass'],[],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+189,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+190,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+191,The Fillmore,The Avett Brothers,2018-11-08T19:30:00,18+,$39.50,"['Folk', 'Rock']",['The Avett Brothers'],
+192,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+193,Monarch,J.Phlip,Fri: Mar 17 (9pm-2am),21+,$15,"['tech house', 'funky house']",[],"('101 6th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca1520>)"
+194,The Midway,Max Cooper 3D/AV,Fri: Mar 17 (9pm-2am),21+,$27.50-35.50,"['techno', 'live av', 'experimental']",[],"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+195,1015 Folsom,Robin Schulz,Fri: Mar 17,21+,$31.63-43.80,['tropical house'],['Robin Schulz'],
+196,Halcyon,"Mark Reeve, Dominic M, Larissa Porto",Fri: Mar 17 (10pm-4am),21+,$12 b4 11/$19-30,techno,"Mark Reeve, Dominic M, Larissa Porto","('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+197,Audio,"Felix Da Housecat, Andrew Phelan",Fri: Mar 17 (11pm-2am),21+,$10 b4 11 w/rsvp,"['electro house', 'tech house', 'deep house']","['Felix Da Housecat', 'Andrew Phelan']","('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+198,The Fillmore,The 1975,2018-11-09T19:00:00,16+,$45.50,"['Indie', 'Pop']",['The 1975'],
+199,DNA Lounge,"GRAVEDGR, Fadead, Brizzy",Sat: Mar 18 (9pm),18+,$10-20 pre/$25,"['hard trap', 'dubstep', 'bass music']","['Olympus', 'Vital Events Facebook Page']","('375 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c77b50>)"
+200,The Regency Ballroom,Shrek Rave,Sat: Mar 18 (9pm),21+,$15-40,"['multigenre', 'EDM']",[],"('1300 Van Ness Ave, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e670>)"
+201,The Midway,Carl Cox & Joseph Capriati: Playground Fundraiser,Sat: Mar 18 (9pm-1am),21+,,techno,,"('900 Marin St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8ea30>)"
+202,Public Works,Boogie T,Sat: Mar 18,21+,$20-40,"['riddim', 'dubstep', 'bass music']",[],"('161 Erie St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c8e340>)"
+203,Audio,Simon Doty,Sat: Mar 18 (9:30pm-2am),21+,$12,"['progressive house', 'tech house']",[],"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
+204,Cafe Du Nord,BSMT: David Harness,Sat: Mar 18 (10pm),21+,$18,['deep house'],[],
+205,Temple Nightclub,Yehme2,Sat: Mar 18,21+,$10-15,"['trap', 'hip-hop']",[],"('540 Howard St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841ca0f40>)"
+206,Halcyon,Mikey Lion: For The Love,Sat: Mar 18 (10pm-4am),21+,$12 b4 11/$19-30,"['deep house', 'tech house']",[],"('314 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f7841c86bb0>)"
+207,Audio,Best Day Ever w/ Shouse,Sun: Mar 19 (1pm-6pm),21+,$20-25,['house'],['All Day All Night Events'],"('316 11th St, San Francisco', <shapely.geometry.point.Point object at 0x7f78310f89d0>)"
