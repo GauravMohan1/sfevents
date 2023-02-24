@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <nav>
+        <a href="/liked-events">Liked Events</a>
+      </nav>
+<head>
+  <meta charset="utf-8">
+  <title>SF Events</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 8px;
+      border: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .page-link {
+      color: #007bff;
+      cursor: pointer;
+      margin: 0 5px;
+    }
+
+    .page-link.active {
+      font-weight: bold;
+    }
+
+    nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position:absolute;
+    right: 20px;
+    background-color: #333;
+    color: #fff;
+    }
+
+    nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    display: block;
+    border-right: 1px solid rgba(9, 249, 97, 0.648);
+    }
+  </style>
+</head>
+<body>
+  <h1>SF Events</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Venue</th>
+        <th>Event</th>
+        <th>Event Desc</th>
+        <th>Date</th>
+        <th>Price</th>
+        <th>Location</th>
+        <th>Distance</th>
+        <th>Like</th>
+      </tr>
+    </thead>
+    <tbody id="events-table">
+      <% events.forEach(event => { %>
+        <tr>
+          <td><%= event.id %></td>
+          <td><%= event.venue %></td>
+          <td><%= event.event %></td>
+          <td><%= event.event_desc %></td>
+          <td><%= event.date %></td>
+          <td><%= event.price %></td>
+          <td><%= event.location %></td>
+          <td><%= event.distance %></td>
+          <td>
+            <form action="/like" method="post" class="like-form">
+              <input type="hidden" name="eventId" value="<%= event.id %>">
+              <button type="submit" class="like-button">Like</button>
+            </form>
+          </td>
+        </tr>
+      <% }) %>
+    </tbody>
+    <script>
+        $(function() {
+          $('.like-form').submit(function(event) {
+            event.preventDefault();
+            var form = $(this);
+            $.post(form.attr('action'), form.serialize(), function(response) {
+              form.find('.like-button').text('Liked');
+            });
+          });
+        });
+    </script>
+  </table>
+  <div class="pagination">
+    <% for (let i = 1; i <= Math.ceil(events.length / perPage); i++) { %>
+      <a class="page-link <%= page == i ? 'active' : '' %>" href="/?page=<%= i %>"><%= i %></a>
+    <% } %>
+  </div>
+</body>
+</html>

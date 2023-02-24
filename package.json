@@ -1,0 +1,13 @@
+{
+  "name": "my-events",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-mysql-session": "^2.1.8",
+    "mysql": "^2.18.1"
+  }
+}

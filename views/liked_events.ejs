@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <nav>
+        <a href="/">Home</a>
+    </nav>
+<head>
+  <meta charset="utf-8">
+  <title>Liked Events</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 8px;
+      border: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .page-link {
+      color: #007bff;
+      cursor: pointer;
+      margin: 0 5px;
+    }
+
+    .page-link.active {
+      font-weight: bold;
+    }
+
+    nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position:absolute;
+    right: 20px;
+    background-color: #333;
+    color: #fff;
+    }
+
+    nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    display: block;
+    border-right: 1px solid rgba(9, 249, 97, 0.648);
+    }
+  </style>
+</head>
+<body>
+  <h1>Liked Events</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Venue</th>
+        <th>Event</th>
+        <th>Event Desc</th>
+        <th>Date</th>
+        <th>Price</th>
+        <th>Location</th>
+        <th>Distance</th>
+        <th>Remove</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% likedEvents.forEach(event => { %>
+        <tr>
+          <td><%= event.id %></td>
+          <td><%= event.venue %></td>
+          <td><%= event.event %></td>
+          <td><%= event.event_desc %></td>
+          <td><%= event.date %></td>
+          <td><%= event.price %></td>
+          <td><%= event.location %></td>
+          <td><%= event.distance %></td>
+          <td>
+            <form action="/remove" method="post" class="remove-form">
+              <input type="hidden" name="likedEventId" value="<%= event.id %>">
+              <button type="submit" class="remove-button">Remove</button>
+            </form>
+          </td>
+        </tr>
+      <% }) %>
+    </tbody>
+  </table>
+</body>
+</html>
