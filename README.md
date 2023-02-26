@@ -1,7 +1,7 @@
 # sfevents
 
 # Demo:
-https://www.youtube.com/watch?v=rxwWuh-lnuc
+https://www.youtube.com/watch?v=YYdt8L52VrA&t=24s
 
 # Project Breakdown:
 https://gauravamohan.medium.com/sf-event-recommender-using-llms-d1f9e898fd
